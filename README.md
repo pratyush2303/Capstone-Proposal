@@ -30,4 +30,5 @@ Following is a snippet showing network solving the sudoku.
 ### References
 
 - Download the [**dataset**](https://www.kaggle.com/bryanpark/sudoku) for this project.
+Dataset is very large in size, so sudoku.csv file can't be uploaded in the repository. Download from above link.
 
